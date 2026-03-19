@@ -10,7 +10,7 @@ This dashboard analyzes supply chain and marketing performance across different 
 - Monthly sales show a strong upward trend
 
 ## Tools Used
-- Tableau / Power BI (mention what you used)
+- Tableau 
 - Data Visualization Techniques
 
 ## Author
