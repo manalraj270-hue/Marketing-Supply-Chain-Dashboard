@@ -1,27 +1,17 @@
-# GlobalMart Sales Analytics Dashboard
+# Marketing Supply Chain Performance Dashboard
 
-📊 Overview
+## Overview
+This dashboard analyzes supply chain and marketing performance across different cities and suppliers.
 
-This dashboard provides insights into sales performance across categories, payment methods, and time periods.
+## Key Insights
+- Berlin has the highest unit sales (410 units)
+- Prime Goods holds the largest stock before sales
+- Freight cost varies significantly across suppliers
+- Monthly sales show a strong upward trend
 
-🔍 Key Insights
+## Tools Used
+- Tableau / Power BI (mention what you used)
+- Data Visualization Techniques
 
-* Electronics generated the highest net sales
-* Credit Card is the most used payment method
-* Sales show a declining trend from January to March
-* Stationery and Accessories contribute consistently to revenue
-
-📈 Features
-
-* KPI metrics (Net Sales, Total Sales, Quantity Sold)
-* Category-wise performance analysis
-* Monthly trend visualization
-* Payment method distribution
-* Interactive filters (Country, Payment Mode)
-🛠 Tools Used
-
-* Tableau 
-
-👤 Author
-
+## Author
 Manal
