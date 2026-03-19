@@ -15,3 +15,5 @@ This dashboard analyzes supply chain and marketing performance across different 
 
 ## Author
 Manal
+
+![Dashboard](./dashboard.png)
